@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:actionOverflowButtonStyle">@style/MyActionButtonOverflow</item>
+        <item name="android:background">@color/bg_yellow</item>
+        <item name="android:popupBackground">@color/ian_blue</item>
+        <item name="android:dropDownSelector">@color/ian_blue</item>
+    </style>
+
+    <style name="MyActionButtonOverflow" parent="android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/dots</item>
+    </style>
+
+
+</resources>

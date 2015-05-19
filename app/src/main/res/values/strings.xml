@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iWood</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="bg_yellow">#f9d966</color>
+    <color name="ian_blue">#4d8ec5</color>
+    <color name="ian_brown">#dbbf58</color>
+
+</resources>
